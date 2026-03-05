@@ -1,8 +1,8 @@
 # WitchWizardWonders
 Landing page for Witch and Wizard Wonders Unity projects
 
-# Coming Soon
-Cozy Core
+## Coming Soon
+**Cozy Core**
 
 A lightweight framework that covers the fundementals of Cozy game development.
 Cozy Core includes:
@@ -33,3 +33,12 @@ Cozy Core includes:
   - InventoryView
   - CraftingView
 - Demo UI binder showing one recommended wiring approach
+
+## In Development
+**VCCG Core**
+
+A lightweight framework that covers the fundementals of Card game development.
+
+**Cozy NPCs**
+
+An NPC and Dialogue plugin for Cozy Core
